@@ -13,7 +13,7 @@ EOL
 
 # Create frontend .env file
 cat > client/.env << EOL
-REACT_APP_SERVER_URL=http://localhost:5000
+REACT_APP_SERVER_URL=https://live-polling-system-gg7v.vercel.app/
 EOL
 
 # Install backend dependencies
